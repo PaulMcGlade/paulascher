@@ -15,7 +15,8 @@ body{
     font-family: 'Roboto', sans-serif;
     line-height: 1.8em;
     margin: auto;
-    text-align: justify; 
+    text-align: justify;
+    background-color: lightblue; 
     
 }
     
