@@ -131,6 +131,20 @@ cite{
         padding: 2em  0em  2em  0em;
 }
 
+
+.container {
+  width: 700px;
+  margin: 100px auto 25px;
+  background-color: #fcfcfc;
+  padding: 0 60px 30px;
+  border-radius: 6px;
+}
+
+
+
+
+
+
 /*----------------------Image--------------------*/
 
 
